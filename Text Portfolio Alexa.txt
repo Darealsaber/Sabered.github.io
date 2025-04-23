@@ -1,11 +1,11 @@
 * HOME
 home__social
-https://www.linkedin.com/
-https://dribbble.com/
-https://github.com/
+https://www.instagram.com/darealsaber
+https://x.com/darealsaber
+https://Sabered.github.io
 
 home__description
-High level experience in web design and development knowledge, producing quality work.
+High level experience in sales and creative innovation.
 
 
 * ABOUT
@@ -20,15 +20,15 @@ Companies <br> worked
 
 * SERVICES
 services__modal-service
-I develop the user interface.
-Web page development.
-I create ux element interactions.
-I position your company brand.
+I teach individuals sales skills to enable them earn income while providing value.
+Brand creation, marketing and sales.
+I produce music.
+I provide business and personal consultation.
 
 
 * PORTFOLIO
 portfolio__description
-Website adaptable to all devices, with ui components and animated interactions.
+Saber: A concept to reality developement company.
 
 
 * PROJECT
@@ -43,8 +43,8 @@ I get a good impression, I carry out my project with all the possible quality an
 
 * FOOTER
 footer__social
-https://www.facebook.com/
-https://www.instagram.com/
-https://twitter.com/
+https://www.facebook.com/darealsaber
+https://www.instagram.com/darealsaber
+https://x.com/darealsaber
 
 
